@@ -1,0 +1,11 @@
+{
+    "name": "freche/vendor",
+    "description": "projet composer wcs.",
+    "require": {
+        "ehime/hello-world": "^1.0"
+    },
+
+    "autoload": {
+        "psr-4": {"app\\": "src/"}
+    }
+}
